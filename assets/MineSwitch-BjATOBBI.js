@@ -1,0 +1,1 @@
+import{o as e,s as t}from"./States-CU7yxID6.js";import{t as n}from"./index-C5hrh0vd.js";var r=e();function i({label:e,mine:i,onChange:a}){let{t:o}=t();return(0,r.jsx)(n,{label:e,value:i?`mine`:`all`,options:[{value:`mine`,label:o(`tasks.mine`)},{value:`all`,label:o(`tasks.all`)}],onChange:e=>{a(e===`mine`)}})}export{i as t};
